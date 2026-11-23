@@ -74,5 +74,5 @@ LOVII соединяет жителей, точки малого бизнеса,
 
 <p align="center">
   <sub>LOVII TECH · <a href="https://lovii.ru">lovii.ru</a><br>
-  Бренд: знак LOVII, розовый <code>#F64A8A</code> · <a href="https://github.com/rucorp">RuCorp</a></sub>
+  Бренд: голубь <strong>Ло</strong> — талисман LOVII, розовый <code>#F64A8A</code> · <a href="https://github.com/rucorp">RuCorp</a></sub>
 </p>
